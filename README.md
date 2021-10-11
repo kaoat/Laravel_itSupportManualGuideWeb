@@ -4,7 +4,7 @@ This website is manual guide when you face a problem and don't want to call IT s
 hr always call for helping with repeated problem.
 I feel bored and have nothing to do then develop the website.
 
-# function
+# Function
 
 1. add FAQ
 2. delete FAQ
