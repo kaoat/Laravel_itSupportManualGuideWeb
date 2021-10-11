@@ -3,10 +3,14 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Models\Faq;
 
 class IndexController extends Controller
 {
-    function index(){
-        return view("index");
+    function index()
+    {
+        $title = "Home";
+        $faqDropdown=Faq::all();
+        return view("index", compact('title','faqDropdown'));
     }
 }
