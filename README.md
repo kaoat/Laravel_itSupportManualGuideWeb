@@ -1,6 +1,7 @@
 # Project
+
 This website is manual guide when you face a problem and don't want to call IT support.
-hr always call for helping wih repeated problem.
+hr always call for helping with repeated problem.
 I feel bored and have nothing to do then develop the website.
 
 # function
